@@ -1,0 +1,2 @@
+# stereotype
+@express.ts/stereotype
