@@ -1,6 +1,21 @@
 # @express.ts/stereotype
  A simple framework for building efficient and scalable server-side applications, heavily inspired by <a href="https://spring.io" target="blank">Spring MVC</a>.
+ 
+### Setup
+Create project using the template: <a href="https://github.com/express-ts/starter.git" target="blank">@express.ts/starter</a>.
 
+``` bash
+# install dependencies
+npm install
+
+# serve at localhost:3000
+npm run start:dev
+
+# build for production
+npm run build
+```
+
+### How does it work
 app.module.ts
 ```typescript
 import {
